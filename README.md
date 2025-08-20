@@ -33,8 +33,8 @@ The app checks file completeness, filename correctness, and generates a summary 
 ---
 
 ## Example Output
-📊 Rekapitulasi File:
-🔢 Total Nomor TU di Pasar A = 125
+Rekapitulasi File:
+Total Nomor TU di Pasar A = 125
 
 KTP: 120 / 125 ✅
 SHPTU: 118 / 125 ✅
@@ -42,7 +42,7 @@ SIPTU: 119 / 125 ✅
 SPT: 125 / 125 ✅
 FOTO TU: 122 / 125 ✅
 
-🚨 File yang TIDAK sesuai:
+File yang TIDAK sesuai:
 📂 SHPTU:
 ❌ SHPTU-XX001.pdf
 
